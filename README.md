@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matheusbaars
-- 👀 I’m interested in animes, music, games
-- 🌱 I’m currently learning Flask and API
+- 👀 I’m interested in animes, music, games, programming
+- 🌱 I’m currently learning Flask and API, Data Sceince
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me matbav@gmail.com
 
